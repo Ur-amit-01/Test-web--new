@@ -1,0 +1,38 @@
+{
+  "tests": [
+    {
+      "institute": "PW",
+      "series": "Yakeen NEET (2027)",
+      "title": "Short Practice Test - 01",
+      "file": "PW/Yakeen NEET (2027)/short-practice-test-01.txt",
+      "pdf": "https://drive.google.com/uc?export=download&id=1aiXvazWqTboh4LfkDQvjJRTC5M5YS_t8"
+    },
+    {
+      "institute": "PW",
+      "series": "Yakeen NEET (2027)",
+      "title": "Practice Test - 01",
+      "file": "PW/Yakeen NEET (2027)/Practice_Test_01_Yakeen_NEET_2027-2.txt",
+      "pdf": "https://drive.google.com/uc?export=download&id=15pP343cDhwxJhyRPNA3uYMpqwLjVtM1L"
+    },
+    {
+      "institute": "PW",
+      "series": "Yakeen NEET (2027)",
+      "title": "Short Practice Test - 02",
+      "file": "PW/Yakeen NEET (2027)/Short_Practice_Test_02_Yakeen_NEET_2027.txt",
+      "pdf": "https://drive.google.com/uc?export=download&id=1cqfWWEcSW4tZ69MZO8MOa1DnutFYRH8W"
+    },
+    {
+      "institute": "PW",
+      "series": "Yakeen NEET (2027)",
+      "title": "Practice Test - 02",
+      "file": "PW/Yakeen NEET (2027)/Practice_Test_02_Yakeen_NEET_2027.txt",
+      "pdf": "https://drive.google.com/uc?export=download&id=1LrlGJd0fxlXft7FnAvCRFFliOXLq3-QU"
+    },
+    {
+      "institute": "Aakash",
+      "series": "AIATS Prime for NEET-2027",
+      "title": "Unit Test-01",
+      "file": "Aakash/AIATS-2027/AIATS Prime for NEET-2027 Unit Test-01.txt"
+    }
+  ]
+}
